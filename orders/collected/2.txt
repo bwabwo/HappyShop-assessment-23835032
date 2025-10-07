@@ -1,0 +1,11 @@
+Order ID: 2 
+State: Collected
+OrderedDateTime: 2025-10-07 14:03:06 
+ProgressingDateTime: 2025-10-07 14:03:07
+CollectedDateTime: 2025-10-07 14:03:07
+Items:
+ 0011    USB5 drive         ( 1) £  10.99
+ 0011    USB5 drive         ( 1) £  10.99
+--------------------------------------------
+ Total                               £  21.98
+
